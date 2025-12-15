@@ -99,12 +99,6 @@ TABULAR COLUMN:
     <th>Vm (V)</th>
     <th>t (ms)</th>
     <th>Vm (V)</th>
-            padding: 8px;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
     <th>t (ms)</th>
     <th>Vm (V)</th>
     <th>t (ms)</th>
