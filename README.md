@@ -65,12 +65,13 @@ WAVEFORM:
 
 
 TABULAR COLUMN:
+## Input and Output Voltage Table
 
-| Section | Condition | Vm (V) | t (ms) |
-|--------|----------|--------|--------|
-| Input Voltage | — | 50 | 20 |
-| Output Voltage | Without Filter | 50 | 5 |
-| Output Voltage | With Filter | 50.46 | 5 / 14 |
+| **Input Voltage** |            | **Output Voltage** |            |              |              |
+|------------------|------------|--------------------|------------|--------------|--------------|
+| **Vm (V)**       | **t (ms)** | **Without Filter** |            | **With Filter** |            |
+|                  |            | **Vm (V)**         | **t (ms)** | **Vm (V)**   | **t (ms)**   |
+| 50               | 20         | 50                 | 5          | 50, 46       | 5 ms, 14 ms  |
 
 
 
