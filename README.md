@@ -45,7 +45,58 @@ waveform:
 ![WhatsApp Image 2025-12-15 at 3 20 09 PM](https://github.com/user-attachments/assets/328ad2b1-1210-4db8-9a8f-e410a7074fd2)
 
 TABULAR COLUMN
-
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th rowspan="2" colspan="2">Input Voltage</th>
+    <th colspan="4">Output Voltage</th>
+  </tr>
+  <tr>
+    <th colspan="2">Without Filter</th>
+    <th colspan="2">With Filter</th>
+  </tr>
+  <tr>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+    <th>Vm (V)</th>
+<th>t (ms)</th>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>20</td>
+    <td>100</td>
+    <td>10</td>
+    <td>100V, 5V</td>
+    <td>5 ms, 25 ms</td>
+  </tr>
+</table>
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th rowspan="2" colspan="2">Input Voltage</th>
+    <th colspan="4">Output Voltage</th>
+  </tr>
+  <tr>
+    <th colspan="2">Without Filter</th>
+    <th colspan="2">With Filter</th>
+  </tr>
+  <tr>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+    <th>Vm (V)</th>
+<th>t (ms)</th>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+  </tr>
+  <tr>
+    <td>50</td>
+    <td>20</td>
+    <td>50</td>
+    <td>5</td>
+    <td>50, 46</td>
+    <td>5 ms, 14 ms</td>
+  </tr>
+</table>
 
 
 Full wave rectifier:
@@ -61,12 +112,57 @@ WAVEFORM:
 
 TABULAR COLUMN:
 ## Input and Output Voltage Table
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Input and Output Voltage Table</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 70%;
+            text-align: center;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
 
-| **Input Voltage** |            | **Output Voltage** |            |              |              |
-|------------------|------------|--------------------|------------|--------------|--------------|
-| **Vm (V)**       | **t (ms)** | |**Without Filter** |            | **With Filter** |            |
-|                  |            | **Vm (V)**         | **t (ms)** | **Vm (V)**   | **t (ms)**   |
-| 50               | 20         | 50                 | 5          | 50, 46       | 5 ms, 14 ms  |
+<table>
+    <tr>
+        <th colspan="2">Input Voltage</th>
+        <th colspan="4">Output Voltage</th>
+    </tr>
+    <tr>
+        <th colspan="2"></th>
+        <th colspan="2">Without Filter</th>
+        <th colspan="2">With Filter</th>
+    </tr>
+    <tr>
+        <th>Vm (V)</th>
+        <th>t (ms)</th>
+        <th>Vm (V)</th>
+        <th>t (ms)</th>
+        <th>Vm (V)</th>
+        <th>t (ms)</th>
+    </tr>
+    <tr>
+        <td>50</td>
+        <td>20</td>
+        <td>50</td>
+        <td>5</td>
+        <td>50, 46</td>
+        <td>5 ms, 14 ms</td>
+    </tr>
+</table>
+
+</body>
+</html>
 
 
 
