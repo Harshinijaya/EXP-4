@@ -111,7 +111,6 @@ WAVEFORM:
 
 
 TABULAR COLUMN:
-## Input and Output Voltage Table
 <!DOCTYPE html>
 <html>
 <head>
@@ -163,7 +162,6 @@ TABULAR COLUMN:
 
 </body>
 </html>
-
 
 
 RESULT:
