@@ -86,8 +86,6 @@ WAVEFORM:
 
 
 TABULAR COLUMN:
-
-
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <th rowspan="2" colspan="2">Input Voltage</th>
