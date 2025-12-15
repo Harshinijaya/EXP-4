@@ -37,9 +37,13 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier:
+
 ![WhatsApp Image 2025-12-15 at 3 20 08 PM](https://github.com/user-attachments/assets/a139930b-defe-4053-988f-a08580e047c1)
+
 waveform:
+
 ![WhatsApp Image 2025-12-15 at 3 20 09 PM](https://github.com/user-attachments/assets/328ad2b1-1210-4db8-9a8f-e410a7074fd2)
+
 TABULAR COLUMN
 | **Input Voltage** |              | **Output Voltage** |              |              |
 |------------------|--------------|--------------------|--------------|--------------|
@@ -50,8 +54,11 @@ TABULAR COLUMN
 
 
 Full wave rectifier:
+
 ![WhatsApp Image 2025-12-15 at 3 20 08 PM (1)](https://github.com/user-attachments/assets/102b9ccc-7327-42f0-8819-28186a0c4a70)
+
 WAVEFORM:
+
 ![WhatsApp Image 2025-12-15 at 3 27 56 PM](https://github.com/user-attachments/assets/d286a6e0-779c-4896-81e6-c17ddb4872f7)
 
 
