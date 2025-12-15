@@ -45,12 +45,7 @@ waveform:
 ![WhatsApp Image 2025-12-15 at 3 20 09 PM](https://github.com/user-attachments/assets/328ad2b1-1210-4db8-9a8f-e410a7074fd2)
 
 TABULAR COLUMN
-| **Input Voltage** |              | **Output Voltage** |              |              |
-|------------------|--------------|--------------------|--------------|--------------|
-| Vm (V)           | t (ms)       | **Without Filter** |              | **With Filter** |
-|                  |              | Vm (V)             | t (ms)       | Vm (V) / t (ms) |
-| 100              | 20           | 100                | 10           | 100 V / 5 ms |
-|                  |              |                    |              | 5 V / 25 ms  ||
+
 
 
 Full wave rectifier:
