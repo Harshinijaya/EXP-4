@@ -121,19 +121,6 @@ TABULAR COLUMN:
   </tr>
 </table>
 
-        <th>Vm (V)</th>
-        <th>t (ms)</th>
-    </tr>
-    <tr>
-        <td>50</td>
-        <td>20</td>
-        <td>50</td>
-        <td>5</td>
-        <td>50, 46</td>
-        <td>5 ms, 14 ms</td>
-    </tr>
-
-
 RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
